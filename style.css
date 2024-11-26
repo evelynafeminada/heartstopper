@@ -49,7 +49,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 80vh;
+    height: 20vh;
     text-align: center;
   }
   
@@ -58,7 +58,7 @@
     margin-bottom: 0px;
     font-family: 'Cursive', serif;
     font-style: italic;
-    color: #f57be0;
+    color: #fa95c8;
   }
   
   .banner-content p {
@@ -84,7 +84,7 @@
     padding: 50px 20px;
     text-align: center;
     font-style: oblique;
-    color: #ffe387;
+    color: #d85b99;
   }
   
   .castle-section h2 {
@@ -109,7 +109,7 @@
     padding: 50px 20px;
     text-align: center;
     font-style: oblique;
-    color: #a0e29a;
+    color: #0bc999;
   }
   
   .characters h2 {
